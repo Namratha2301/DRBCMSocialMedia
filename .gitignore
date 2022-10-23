@@ -161,7 +161,7 @@ kaggle
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
-
+covid19_tweets.csv
 # Unit test / coverage reports
 htmlcov/
 .tox/
